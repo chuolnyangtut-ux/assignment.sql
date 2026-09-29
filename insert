@@ -1,0 +1,5 @@
+INSERT INTO student (id, fullName, age) 
+VALUES 
+    (1, 'Alice Johnson', 19),
+    (2, 'Bob Smith', 18),
+    (3, 'Charlie Brown', 21);
